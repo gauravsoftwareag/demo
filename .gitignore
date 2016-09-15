@@ -1,0 +1,11 @@
+# Compiled source #
+###################
+*.class
+*.exe
+# Packages #
+############
+*.bak
+**/*.bak
+# Logs and databases #
+######################
+*.log
